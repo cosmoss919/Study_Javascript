@@ -8,7 +8,6 @@
 ## 개발환경
 - 네이버웨일
 - Visual Studio Code
-- Node.js(0.2.0 이상)
 
 <br/>
 <br/>
